@@ -1,28 +1,14 @@
 {
-    "name": "haxordos-C322y",
-    "depecrated": "DDoS Layer 7 (REYHAN6610)",
-    "main": "index.js",
-    "version": "1.0.1",
-    "type": "commonjs",
-    "directories": {
-        "lib": "lib"
-    },
-        "keywords": ["ddos", "Dos", "ddos-attack", "stresser", "booter", "dos-attack", "layer7", "http-flood", "web-stress", "haxorDos"],
-    "author": "andreanz665",
-    "license": "CC-BY-NC-ND-4.0",
-    "dependencies": {
-        "util": "^0.12.4",
-        "http": "latest",
-        "cluster":"^0.7.7",
-        "node-fetch": "^2.7.0",
-        "colors":"latest",
-        "undici":"latest",
-        "puppeteer-real-browser":"^1.4.4",
-        "http2": "latest",
-        "cheerio": "^1.0.0-rc.12",
-        "axios": "^0.27.2"
-    },
-    "scripts": {
-        "start": "node index.js"
-    }
+  "name": "cezzyddos",
+  "version": "1.0.0",
+  "description": "Cezzy DDoS Ultimate Tool",
+  "main": "index.js",
+  "bin": {
+    "cezzyddos": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "C322y",
+  "license": "ISC"
 }
