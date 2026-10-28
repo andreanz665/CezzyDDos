@@ -1,0 +1,20 @@
+{
+    "name": "haxor-dos",
+    "depecrated": "DDoS Layer 7",
+    "main": "index.js",
+    "version": "1.0.0",
+    "type": "commonjs",
+    "directories": {
+        "lib": "lib"
+    },
+        "keywords": ["ddos", "Dos", "ddos-attack", "stresser", "booter", "dos-attack", "layer7", "http-flood", "web-stress", "haxorDos"],
+    "author": "REYHAN6610",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "haxordos": "latest",
+        "gradient-string": "latest"
+    },
+    "scripts": {
+        "start": "node run.js"
+    }
+}
